@@ -183,6 +183,11 @@
 .nav__contents__right-menu .btn-pink:hover {
   color: #FFF;
 }
+@media (max-width: 751px) {
+  .contact-number-mobile {
+    display: block;
+  }
+}
 
 .main-screen {
   width: 100%;
