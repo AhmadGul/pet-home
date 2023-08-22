@@ -498,16 +498,16 @@
   }
 }
 .stats__block__contents .carousel-container .carousel-image.image-1 {
-  background-image: url("/website/img/image_1.png"), linear-gradient(to right, #f1d06e, #f1d06e);
+  background-image: url("./img/image_1.png"), linear-gradient(to right, #f1d06e, #f1d06e);
 }
 .stats__block__contents .carousel-container .carousel-image.image-2 {
-  background-image: url("/website/img/image_3.png"), linear-gradient(to right, #04c27f, #04c27f);
+  background-image: url("./img/image_3.png"), linear-gradient(to right, #04c27f, #04c27f);
 }
 .stats__block__contents .carousel-container .carousel-image.image-3 {
-  background-image: url("/website/img/image_4.png"), linear-gradient(to right, #f5f5f5, #f5f5f5);
+  background-image: url("./img/image_4.png"), linear-gradient(to right, #f5f5f5, #f5f5f5);
 }
 .stats__block__contents .carousel-container .carousel-image.image-4 {
-  background-image: url("/website/img/image_2.png"), linear-gradient(to right, #5758f1, #5758f1);
+  background-image: url("./img/image_2.png"), linear-gradient(to right, #5758f1, #5758f1);
 }
 .stats__block__contents .carousel-container .carousel-image img {
   max-width: 100%;
