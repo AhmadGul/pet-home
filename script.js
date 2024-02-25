@@ -39,8 +39,8 @@ const handleSlide = (newIndex) => {
   carousel_slides.forEach((slide) => (slide.style.display = "none"));
   carousel_slides[newIndex].style.display = "flex";
 
-  console.log({ newIndex });
-  console.log({ MAX_STEPS_INDEX });
+  // console.log({ newIndex });
+  // console.log({ MAX_STEPS_INDEX });
 };
 
 leftBtn.addEventListener("click", () => {
